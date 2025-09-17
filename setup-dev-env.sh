@@ -12,7 +12,7 @@
 # The project root on your local machine
 PROJECT_ROOT="/home/mhamilton/dev-projects/ems-equity-trading"
 # The GitHub repository URL for the project
-GITHUB_REPO_URL="https://github.com/your-organization/ems-equity-trading.git"
+GITHUB_REPO_URL="https://github.com/mhamilton360/ems-equity-trading.git"
 
 # -----------------------------------------------
 # 2. Check Prerequisites and Clone Repository
