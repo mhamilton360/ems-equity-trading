@@ -8,6 +8,7 @@
 # -----------------------------------------------
 # 1. Define Project and Repository Variables
 # -----------------------------------------------
+# 
 # The project root on your local machine
 PROJECT_ROOT="/home/mhamilton/dev-projects/ems-equity-trading"
 # The GitHub repository URL for the project
